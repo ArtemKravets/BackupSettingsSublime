@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Color Highlighter",
+		"Emmet",
+		"Gist",
+		"GitSavvy",
+		"LiveReload",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Sass"
+	]
+}
